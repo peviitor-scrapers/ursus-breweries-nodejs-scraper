@@ -1,0 +1,88 @@
+{
+  "validatedAt": "2026-10-12T18:36:39.106Z",
+  "source": "ANAF",
+  "brand": "Ursus Breweries",
+  "anaf": {
+    "cui": 199095,
+    "name": "URSUS BREWERIES SA",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2",
+    "registrationNumber": "J2005020456402",
+    "phone": "0213159804",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "1105",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 14.05.2014",
+    "registrationDate": "1992-11-27",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON SI STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ PE ACŢIUNI",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "1993-07-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": true,
+    "headquartersAddress": {
+      "street": "Şos. Pipera",
+      "number": "43",
+      "locality": "Sector 2 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "14720249",
+    "company": "URSUS BREWERIES SA BUCURESTI SUCURSALA TIMISOARA",
+    "brand": "URSUS BREWERIES SA BUCURESTI SUCURSALA TIMISOARA",
+    "status": "activ",
+    "location": [
+      "Municipiul Timişoara"
+    ],
+    "lastScraped": "2026-07-08",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Str. STEFAN CEL MARE, 28, Municipiul Timişoara, Timiş"
+    ],
+    "anafData": [
+      "{\"cif\":14720249,\"cui\":14720249,\"denumire\":\"URSUS BREWERIES SA BUCURESTI SUCURSALA TIMISOARA\",\"company\":\"URSUS BREWERIES SA BUCURESTI SUCURSALA TIMISOARA\",\"brand\":\"URSUS BREWERIES SA BUCURESTI SUCURSALA TIMISOARA\",\"statusImpozit\":\"activ\",\"adresa\":\"Str. STEFAN CEL MARE, 28, Municipiul Timişoara, Timiş\",\"localitate\":\"Municipiul Timişoara\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1870141613667254300,
+    "_root_": "14720249"
+  },
+  "summary": {
+    "company": "URSUS BREWERIES SA",
+    "cif": "199095",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2"
+  }
+}
