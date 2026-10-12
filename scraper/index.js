@@ -542,7 +542,9 @@ async function main(dryRun = process.argv.includes("--dry-run")) {
 
     console.log("=== Step 2: Validate company via ANAF ===");
     const { company, cif, address, status } = await validateAndGetCompany(dryRun);
-    COMPANY_NAME = company;
+    // Pin the job-side company name to the spelling peViitor already indexes for this CIF
+    // (config), not whatever the ANAF mirror returned (e.g. a branch name or a diacritic variant).
+    COMPANY_NAME = companyConfig.company || company;
     if (status === 'inactive') {
       if (dryRun) {
         console.log(`Company is INACTIVE — dry-run, so NOT deleting our ${ownExistingUrls.size} job(s) (would delete on a real run; validateAndGetCompany already skipped the CIF-wide delete)`);
