@@ -1,0 +1,10 @@
+{
+  "id": "199095",
+  "company": "URSUS BREWERIES SA",
+  "brand": "Ursus Breweries",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": ["https://ursus-breweries.ro"],
+  "career": ["https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0"],
+  "scraperFile": "https://github.com/peviitor-scrapers/ursus-breweries-nodejs-scraper/actions/workflows/scrape.yml"
+}
