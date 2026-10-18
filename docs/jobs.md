@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2 |
 | Website | [https://ursus-breweries.ro](https://ursus-breweries.ro) |
 | Careers | [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0) |
-| Last Scraped | 2026-10-17 |
+| Last Scraped | 2026-10-18 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-10-17T09:58:30.981Z_
+_Generated: 2026-10-18T10:11:46.514Z_
 
 ### SALES FINANCE BUSINESS PARTNER
 
