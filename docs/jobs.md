@@ -10,22 +10,22 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2 |
 | Website | [https://ursus-breweries.ro](https://ursus-breweries.ro) |
 | Careers | [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-01T12:27:45.469Z_
+_Generated: 2026-11-02T14:25:31.641Z_
 
-### MARKETING FINANCE ANALYST
+### Clear
 
-- **URL:** [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-MARKETING-FINANCE-ANALYST/1373817057/](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-MARKETING-FINANCE-ANALYST/1373817057/)
+- **URL:** [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/clear/](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/clear/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### SALES FINANCE BUSINESS PARTNER
+### Show More Options
 
-- **URL:** [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-SALES-FINANCE-BUSINESS-PARTNER/1373822057/](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-SALES-FINANCE-BUSINESS-PARTNER/1373822057/)
+- **URL:** [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/show-more-options/](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/show-more-options/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
