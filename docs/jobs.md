@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2 |
 | Website | [https://ursus-breweries.ro](https://ursus-breweries.ro) |
 | Careers | [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-14T12:48:41.586Z_
+_Generated: 2026-11-15T13:15:34.388Z_
 
 ### Clear
 
