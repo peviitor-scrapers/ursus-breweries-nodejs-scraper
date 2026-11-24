@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS PIPERA, NR.43, CORP A, ET.2 |
 | Website | [https://ursus-breweries.ro](https://ursus-breweries.ro) |
 | Careers | [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/search/?q=&locationsearch=&startrow=0) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (1)
+## Current Job Listings (2)
 
-_Generated: 2026-11-23T17:00:12.704Z_
+_Generated: 2026-11-24T16:48:55.674Z_
+
+### SENIOR BRAND MANAGER
+
+- **URL:** [https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-SENIOR-BRAND-MANAGER/1378348657/](https://careersasahiinternational.jobs.hr.cloud.sap/ursus-breweries/job/Bucuresti-SENIOR-BRAND-MANAGER/1378348657/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### PLANNING & DISTRIBUTION FINANCE ANALYST
 
